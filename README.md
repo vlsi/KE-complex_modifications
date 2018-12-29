@@ -8,8 +8,6 @@ https://pqrs.org/osx/karabiner/complex_modifications/
 
 ## Update docs
 
-Run make in terminal.
-
 ```
 make
 ```
